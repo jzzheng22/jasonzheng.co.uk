@@ -16,6 +16,21 @@
                 "style": "link"
             },
             {
+                "label": "Projects",
+                "url": "/projects/",
+                "style": "link"
+            },
+            {
+                "label": "Experience",
+                "url": "/experience/",
+                "style": "link"
+            },
+            {
+                "label": "Education",
+                "url": "/education/",
+                "style": "link"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "link"
