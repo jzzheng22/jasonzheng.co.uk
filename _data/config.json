@@ -3,8 +3,8 @@
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "Jason Zheng",
+        "tagline": "Software Engineer",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -39,31 +39,31 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/jzzheng22",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/jasonzheng22/",
                 "style": "icon",
                 "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/jasonzheng22",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/jasonzheng22",
+                "style": "icon",
+                "icon_class": "instagram",
                 "new_window": true
             },
             {
