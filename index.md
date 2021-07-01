@@ -6,18 +6,18 @@ sections:
     type: section_hero
     title: 'Kia ora, I''m Jason.'
     content: >-
-      I'm a third-year Electronic and Information Engineering student at Imperial College London.
+      Computer Engineer • Musician • Student
   - section_id: about
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Hi! I'm Jason. Originally from Auckland, New Zealand, I moved to London in September 2018, where I'm currently studying for an MEng Electronic and Information Engineering at Imperial College London.
     actions:
       - label: Contact Me
         url: /contact
+        style: button
+      - label: Download my CV
+        url: /cv.pdf
         style: button
   - section_id: projects
     type: section_content

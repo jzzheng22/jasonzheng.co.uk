@@ -8,17 +8,26 @@ sections:
     content:
   - section_id: uni
     type: section_content
-    title: Imperial College London
+    title: Imperial College London • September 2018 — June 2022
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      * MEng Electronic and Information Engineering
+
+      * Predicted First-Class Honours
+
+      * Key modules: Functional Programming; Embedded Systems; Computer Architecture;
+       Machine Learning; Robotics; Object-Oriented Software Engineering; Algorithms, Data Structures and Complexity, Digital Electronics
+      * CGCU Half Colours Award Recipient
+
   - section_id: school
     type: section_content
-    title: Auckland Grammar School
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
+    title: Auckland Grammar School • January 2013 — December 2017
+    content: >-
+      * NZ Scholarship: Calculus and Statistics
+
+      * A Levels: Biology (A\*), Chemistry (A\*), Physics (A\*), Mathematics (A\*), Further Mathematics (A)
+
+      * AS Levels: Economics (a), English (b)
+
+      * IGCSEs: 7A\*s
 layout: advanced
 ---
