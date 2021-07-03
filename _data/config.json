@@ -31,21 +31,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -65,13 +50,6 @@
                 "url": "https://www.linkedin.com/in/jasonzheng22/",
                 "style": "icon",
                 "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/jasonzheng22",
-                "style": "icon",
-                "icon_class": "twitter",
                 "new_window": true
             }
         ]

@@ -22,44 +22,35 @@ sections:
   - section_id: projects
     type: section_content
     title: Projects
-    posts_number: 4
+    content: >-
+      I've worked on quite a few varied projects, both in and outside of my studies. My experience ranges high level functional programming, to embedded multi-threaded programming, right down to microarchitectural optimisations.
     actions:
       - label: View Projects
         url: /projects
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    title: Recent Posts
-    posts_number: 4
+
+  - section_id: projects
+    type: section_content
+    title: Experience
+    content: >-
+      Currently I'm working for Arm as a Part-Time Undergraduate, where my current project 
+      is working on some extensions for Compiler Explorer! I've also been contributing to 
+      some open-source tooling, including Clang and the SPIR-V/LLVM Translator.
+
+
+      I also work for Imperial College London as an Undergraduate Teaching Assistant and a
+      STEM Outreach Ambassador. My work at Imperial ranges from teaching programming to first-years and working at Outreach events, mentoring school students and providing
+      information about Imperial to prospective applicants.
+
+
+      In my spare time, I also do volunteer work with the Imperial College Union, where 
+      I'm helping to advocate for students, run societies, and promote diversity and 
+      inclusion for minority groups.
+      
     actions:
-      - label: View Blog
-        url: blog/index.html
+      - label: View Experience
+        url: /experience
         style: button
-# seo:
-#   title: Stackbit Fresh Theme
-#   description: The preview of the Fresh theme
-#   extra:
-#     - name: 'og:type'
-#       value: website
-#       keyName: property
-#     - name: 'og:title'
-#       value: Stackbit Fresh Theme
-#       keyName: property
-#     - name: 'og:description'
-#       value: The preview of the Fresh theme
-#       keyName: property
-#     - name: 'og:image'
-#       value: images/4.jpg
-#       keyName: property
-#       relativeUrl: true
-#     - name: 'twitter:card'
-#       value: summary_large_image
-#     - name: 'twitter:title'
-#       value: Stackbit Fresh Theme
-#     - name: 'twitter:description'
-#       value: The preview of the Fresh theme
-#     - name: 'twitter:image'
-#       value: images/4.jpg
-#       relativeUrl: true
+
 layout: advanced
 ---

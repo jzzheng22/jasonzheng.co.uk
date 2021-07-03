@@ -6,9 +6,9 @@ sections:
     type: section_hero
     content: >-
       Feel free to get in contact with me via [email](mailto: jzz18@ic.ac.uk) or [LinkedIn](https://www.linkedin.com/in/jasonzheng22/)!
-
-
-      You can also find me on [GitHub](https://github.com/jzzheng22) and [Twitter](https://twitter.com/jasonzheng22).
+      
+      
+      You can also find me on GitHub [here](https://github.com/jzzheng22).
       
 layout: advanced
 ---

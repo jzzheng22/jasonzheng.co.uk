@@ -49,50 +49,50 @@ sections:
     type: section_content
     title: Imperial College Union • Incoming Departmental Academic Representative <br> October 2021
     content: >-
-      - asdfasdfasd
+      - Responsible for leading my department's Academic Representation team and advocating for student academic wellbeing.
 
   - section_id: arm_ptug
     type: section_content
     title: Imperial College Wind Band • Incoming Treasurer <br> September 2021
     content: >-
-      - asdfasdfasd
+      - Responsible for managing the Wind Band's finances and expenditure.
 
   - section_id: arm_ptug
     type: section_content
     title: Imperial College Electrical Engineering Society • quEErsoc Committee <br> April 2021
     content: >-
-      - asdfasdfasd
+      - Spearheading the creation of a new subsociety within EESoc to provide a safe space for LGBTQIA+ students and allies within the Electrical Engineering department.
 
   - section_id: arm_ptug
     type: section_content
     title: Imperial College Union • Third Year Academic Representative <br> October 2020 — September 2021
     content: >-
-      - asdfasdfasd
+      - Responsible for advocating for third-year students, collecting feedback, and seeking improvements for the course.
 
   - section_id: arm
     type: section_content
     title: Imperial College Wind Band • Secretary <br> September 2020 — August 2021
     content: >-
-      - asdfasdfasdfasdfasdfas
+      - Responsible for organising rehearsals and concert venues, and keeping the Band up-to-date with events.
 
   - section_id: school
     type: section_content
     title: Imperial College Wind Band • Publicity Officer <br> September 2019 — June 2020
     content: >-
-      - asdfasdfasdfas
+      - Responsible for designing posters, promoting concerts, and merchandise sales for the Band.
 
   - section_id: school
     type: section_content
     title: Imperial College London • Mathematics Tutor <br> November 2018 — March 2019
     content: >-
-      - Pimlico Connection
-      - asdfasdfasd
+      - Provided weekly maths tutoring to students in London as part of the Pimlico Connection programme at Imperial College.
 
   - section_id: school
     type: section_content
     title: Auckland Grammar School • Asian Cultural Group Tutor <br> February 2016 — September 2017
     content: >-
-      - Deputy Head Tutor
+      - Deputy Head Tutor in 2017.
+      - Provided weekly maths and science tutoring to students.
 
 layout: advanced
 ---
