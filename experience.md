@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: Arm • Part-Time Undergraduate <br> December 2020 — present
     content: >-
-      - Extending Compiler Explorer to support OpenCL C, C++ for OpenCL with syntax 
+      - Extending Compiler Explorer to support OpenCL C and C++ for OpenCL with syntax 
         highlight and compilation to Arm assembly and SPIR-V assembly.
       - Contributing to open source software such as Clang and the SPIR-V/LLVM 
         Bi-directional Translator.

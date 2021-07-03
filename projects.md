@@ -50,7 +50,7 @@ sections:
     type: section_content
     title: Program Optimisation • Advanced Computer Architecture
     content: >-
-      * Optimised performance of a C++ implementation of Gaussian Belief Propagation.
+      * Optimised performance of a **C++** implementation of Gaussian Belief Propagation.
 
       * Assessed performance and investigated bottlenecks using Intel VTune Profiler.
 
@@ -93,7 +93,7 @@ sections:
     content: >-
       * Wrote a compiler in **C++** to generate MIPS assembly from a subset of 
         pre-processed C90 code.
-      * Wrote a transspiler to translate a subset of C into equivalent Python.
+      * Wrote a transpiler to translate a subset of C into equivalent Python.
       
       * Used Flex and Yacc to implement lexing and parsing functionality.
     

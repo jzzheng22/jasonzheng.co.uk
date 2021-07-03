@@ -12,7 +12,7 @@ sections:
     title: About
     content: >-
       Hi! I'm Jason. Originally from Auckland, New Zealand, I moved to London in September 
-      2018, where I'm currently studying for an MEng Electronic and Information 
+      2018 where I'm currently studying for an MEng Electronic and Information 
       Engineering at Imperial College London.
 
 
@@ -20,7 +20,7 @@ sections:
       systems, functional programming and machine learning.
 
 
-      When I'm not studying, I can probably be found playing the clarinet or the piano.
+      When I'm not studying, I can be found playing the clarinet or the piano.
 
     actions:
       - label: Contact Me
@@ -43,8 +43,7 @@ sections:
     type: section_content
     title: Experience
     content: >-
-      Currently I'm working for Arm as a Part-Time Undergraduate, where my current project 
-      is working on some extensions for Compiler Explorer! I've also been contributing to 
+      Currently I'm Part-Time Undergraduate at Arm, where I'm working on some extensions for Compiler Explorer. I've also been contributing to 
       some open-source tooling, including Clang and the SPIR-V/LLVM Translator.
 
 
@@ -53,7 +52,7 @@ sections:
       information about Imperial to prospective applicants.
 
 
-      In my spare time, I also do volunteer work with the Imperial College Union, where 
+      In my spare time, I do volunteer work with the Imperial College Union, where 
       I'm helping to advocate for students, run societies, and promote diversity and 
       inclusion for minority groups.
 

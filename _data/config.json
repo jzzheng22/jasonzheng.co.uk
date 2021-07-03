@@ -4,8 +4,8 @@
     "palette": "blue",
     "header": {
         "title": "Jason Zheng",
-        "tagline": "Computer Engineer",
-        "profile_img": "images/avatar.png",
+        "tagline": "Computer Systems Engineer",
+        "profile_img": "images/avatar.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
         "has_nav": true,
