@@ -85,13 +85,15 @@ sections:
     type: section_content
     title: Imperial College London • Mathematics Tutor <br> November 2018 — March 2019
     content: >-
-      - Provided weekly maths tutoring to students in London as part of the Pimlico Connection programme at Imperial College.
+      - Provided weekly maths tutoring to students in London as part of the Pimlico 
+        Connection programme at Imperial College.
 
   - section_id: school
     type: section_content
     title: Auckland Grammar School • Asian Cultural Group Tutor <br> February 2016 — September 2017
     content: >-
       - Deputy Head Tutor in 2017.
+
       - Provided weekly maths and science tutoring to students.
 
 layout: advanced

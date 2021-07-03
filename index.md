@@ -11,7 +11,17 @@ sections:
     type: section_content
     title: About
     content: >-
-      Hi! I'm Jason. Originally from Auckland, New Zealand, I moved to London in September 2018, where I'm currently studying for an MEng Electronic and Information Engineering at Imperial College London.
+      Hi! I'm Jason. Originally from Auckland, New Zealand, I moved to London in September 
+      2018, where I'm currently studying for an MEng Electronic and Information 
+      Engineering at Imperial College London.
+
+
+      I have a special interest in computer architecture, with experience in embedded 
+      systems, functional programming and machine learning.
+
+
+      When I'm not studying, I can probably be found playing the clarinet or the piano.
+
     actions:
       - label: Contact Me
         url: /contact
@@ -46,7 +56,7 @@ sections:
       In my spare time, I also do volunteer work with the Imperial College Union, where 
       I'm helping to advocate for students, run societies, and promote diversity and 
       inclusion for minority groups.
-      
+
     actions:
       - label: View Experience
         url: /experience

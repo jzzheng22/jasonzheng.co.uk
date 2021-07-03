@@ -15,7 +15,7 @@ sections:
       * Predicted First-Class Honours
 
       * Key modules: Functional Programming; Embedded Systems; Computer Architecture;
-        Performance Engineering; Machine Learning; Robotics; 
+        Performance Engineering; Machine Learning; Robotics; Databases;
         Object-Oriented Software Engineering; Algorithms, Data Structures and Complexity;
         Digital Electronics
       * CGCU Half Colours Award Recipient
