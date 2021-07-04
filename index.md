@@ -26,9 +26,9 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-      - label: Download my CV
-        url: /cv.pdf
-        style: button
+      # - label: Download my CV
+      #   url: /cv.pdf
+      #   style: button
   - section_id: projects
     type: section_content
     title: Projects
