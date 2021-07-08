@@ -1,4 +1,4 @@
-# ✨ clever-parsley ✨
+# ✨ Personal website ✨
 
 <img src="https://themes.stackbit.com/images/fresh-demo-1024x768.png" width="600">
 
